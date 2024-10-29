@@ -1,0 +1,1 @@
+Just a challenge to myself to code for 100 days straight with java.
